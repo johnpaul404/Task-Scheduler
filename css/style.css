@@ -20,6 +20,7 @@ body{
 #time {
     font-size: 8rem;
     background:radial-gradient(#fff, #8a8a8a);
+    opacity:0.9;
 }
 
 h1{
